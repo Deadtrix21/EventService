@@ -2,7 +2,7 @@ import asyncio
 import time
 from typing import Any, Callable, Coroutine, Dict, List, Optional, Set, Union
 
-from .Base import IServiceBus, Message, SubscriptionError, MessageNotFoundError
+from tools.BaseServiceBus import IServiceBus, Message, SubscriptionError, MessageNotFoundError
 
 
 class AsyncServiceBus(IServiceBus):

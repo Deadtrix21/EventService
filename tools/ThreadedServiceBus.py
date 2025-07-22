@@ -1,4 +1,4 @@
-from .Base import *
+from tools.BaseServiceBus import IServiceBus, Message, SubscriptionError, MessageNotFoundError
 import threading
 import time
 from typing import Any, Callable, Dict, List, Optional, Set, Union
