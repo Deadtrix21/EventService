@@ -1,6 +1,6 @@
 [project]
 name = "eventflowsys"
-version = "0.0.2"
+version = "0.1.1"
 description = "Base logger and internal event bus implementations."
 authors = [ { name = "Your Name" } ]
 readme = "README.md"
