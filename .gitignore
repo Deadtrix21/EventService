@@ -1,5 +1,4 @@
 publish.sh
-pyproject.toml
 __pycache__
 .venv/
 env/
